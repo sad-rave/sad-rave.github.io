@@ -42,6 +42,7 @@ document.write('<summary>DDB ⇲</summary>');
         document.write('</details>');
       document.write('<details>');
       document.write('<summary>outclub</summary>');
+        document.write('<div><a href=/audio/oc/interlude.html>interlude (2026)</a></div>');
         document.write('<div><a href=/audio/oc/save001.html>save001 (2024)</a></div>');
         document.write('<div><a href=/audio/oc/take10.html>take10 (2024)</a></div>');
         document.write('<div><a href=/audio/oc/ditto.html>Ditto (outclub『side B』12") (2023)</a></div>');
